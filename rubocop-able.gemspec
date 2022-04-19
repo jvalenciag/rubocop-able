@@ -14,5 +14,5 @@ Gem::Specification.new do |spec|
   spec.files       = Dir["README.md", "LICENSE", "config/*.yml"]
 
   spec.add_dependency "rubocop", "~> 1.18"
-  spec.add_dependency "rubocop-rails", "~> 2.8.1"
+  spec.add_dependency "rubocop-rails", "~> 2.14"
 end
